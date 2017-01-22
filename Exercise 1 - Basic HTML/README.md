@@ -19,6 +19,9 @@ Here are some questions to test your understanding of the article
 ### How to mark-up text
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals
 
+### What's in the ```<head>```?
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML
+
 ### How to make hyperlinks
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks
 
