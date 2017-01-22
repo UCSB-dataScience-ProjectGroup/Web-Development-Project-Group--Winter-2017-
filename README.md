@@ -1,4 +1,4 @@
-# Web-Development-Project-Group--Winter-2017-
+# Web Development Project Group (Winter 2017)
 We dem boyz.
 
 ## Syllabus
