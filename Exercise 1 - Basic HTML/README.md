@@ -1,3 +1,6 @@
+# What is HTML?
+Do the readings and exercises to familiarize yourself with HTML concepts and syntax. The last exercise offers you the chance to use your newfound skills.
+
 ## Part 1: The Basics of HTML
 Reading: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
 
@@ -13,13 +16,16 @@ Here are some questions to test your understanding of the article
  * How do you add comments to an HTML document?
 
 ## Part 2: Adding text to pages
-**How to mark-up text**
+### How to mark-up text
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals
 
-**How to make hyperlinks**
+### What's in the ```<head>```?
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML
+
+### How to make hyperlinks
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks
 
-**More text mark-up options**
+### More text mark-up options
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting
 
 ## Part 3: Practice
@@ -28,7 +34,7 @@ Here comes the fun part... creating an HTML document from scratch!
 1. Start with a bare-minimum HTML document
 This is the bare-minimum amount of code that comprises a valid HTML file.
 
- * Either use the one provided by Mozilla when you read "Creating hyperlinks" or…
+ * Either use the one provided by Mozilla when you read "Creating hyperlinks" orâ€¦
  * Use http://vincela.com/html/#basics (just the section that says "A Bare-Minimum HTML Document")
   * Download 'bare_minimum.html'
 
@@ -48,8 +54,8 @@ If you want to create a line break within a paragraph, or any other element, use
 1. Copy and paste the CSS into a separate file. Save it in the same directory as "letter.css"
 2. Add <link href="letter.css" rel="stylesheet" type="text/css"> to the <head> section of your HTML document
 3. Any time you want to make any text right-aligned, you will set the container element's class attribute to "receiver-column", e.g.
- a. ```<p class="receiver-column">```
- b. Note: You might need multiple ```<p>```'s and ```<address>```'s to mark up the header!
+ 1. ```<p class="receiver-column">```
+ 2. Note: You might need multiple ```<p>```'s and ```<address>```'s to mark up the header!
 
 #### A quick reference of most of the HTML tags you will need
 http://vincela.com/html/ - Everything from the beginning up until the section "Fonts"
