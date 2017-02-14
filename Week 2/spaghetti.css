@@ -1,0 +1,44 @@
+body {
+    max-width: 80vw;
+    background: url('swag/young_nigga.jpg');
+    background-size: auto 100vh;
+    font-family: 'Pacifico', cursive;
+    color: rgb(100, 100, 100);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    text-align: center;
+}
+
+h2 {
+    border-bottom: 1px solid blue;
+}
+
+h3 > span {
+    float: right;
+}
+
+/* You can select any HTML tag in CSS */
+b {
+    text-decoration: underline;
+    font-size: 1.5em;
+}
+
+#fun {
+    color: red;
+}
+
+.job-desc  {
+    position: relative;
+    top: -1em;
+}
+
+#bullsht {
+    position: fixed;
+    top: 50vh;
+    left: 20vh;
+    font-size: 2em;
+    background: rgba(255, 255, 255, 0.2);
+}
