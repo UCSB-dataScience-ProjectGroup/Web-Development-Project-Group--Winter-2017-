@@ -12,13 +12,13 @@ Details of how to use Bootstrap will be covered in the meeting, but you should i
 ### Dependencies
 Instructions adapted from: http://getbootstrap.com/getting-started/#grunt
 
-1. Install **node.js**
-Go to https://nodejs.org/en/ and download and install the correct version for your OS.
+#### 1. Install **node.js**
+Go to https://nodejs.org/en/ and download and install the appropriate version for your OS.
 
-2. Install Grunt
+#### 2. Install Grunt
 Grunt is a node.js module used for compiling Bootstrap's CSS files. To install Grunt:
 
  1. Install ```grunt-cli``` globally with ```npm install -g grunt-cli```.
- 2. Navigate to the root ```/bootstrap/``` directory, then run ```npm install```. npm will look at the package.json file and automatically install the necessary local dependencies listed there.
+ 2. **(Ignore this step for now)** Navigate to the root ```/bootstrap/``` directory, then run ```npm install```. npm will look at the package.json file and automatically install the necessary local dependencies listed there.
 
-**If you run into errors, trying using the terminal/running cmd with admin privileges.**
+**If you run into errors, trying using the terminal/running cmd with admin privileges.** Otherwise, everything's good. See you at the meeting!
